@@ -18,3 +18,5 @@ See configurations declared in settings:
 Run `tuist generate` on version `1.0.1`
 
 Generated pbxproj is missing the alpha configuration:
+
+https://github.com/andreacipriani/tuist-configurations-error/blob/master/MissingConfigurations.xcodeproj/project.pbxproj#L328
